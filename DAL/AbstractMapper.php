@@ -1,10 +1,10 @@
 <?php
 abstract class AbstractMapper
 {
-    private $usuario = "docker";
-    private $contrasena = "ezequiel2024";
-    private $servidor = "localhost:3306";
-    private $basededatos = "tp13";
+    private $usuario = "USER DE MYSQL";
+    private $contrasena = "Password";
+    private $servidor = "SERVIDOS";
+    private $basededatos = "NombreBaseDeDatos";
 
     /*PRUEBA N */
     private $conexion;
